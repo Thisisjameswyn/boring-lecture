@@ -1,0 +1,19 @@
+img.intro{
+  margin:50%;
+}
+
+p.intro{
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+h2.intro{
+  color:red;
+}
+
+div.divInstruction{
+  color:red;
+}
+
+.spanEdit{
+  color:blue;
+}
